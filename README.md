@@ -42,5 +42,7 @@ We will assume here only 2 microphones
 
 ## References
 [1] [The DUET Blind Source Separation Algorithm, Scott Rickard](https://link.springer.com/chapter/10.1007%2F978-1-4020-6479-1_8#page-1)
+
 [2] [The DUET tutorial](https://users.cs.northwestern.edu/~pardo/courses/casa/papers/DuetSourceSeparationTutorial)
+
 [3] [Blind Separation of Speech Mixtures viaTime-Frequency Masking, Özgür Yılmaz and Scott Rickard](https://users.cs.northwestern.edu/~pardo/courses/casa/papers/DUET.pdf)

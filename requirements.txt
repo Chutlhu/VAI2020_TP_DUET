@@ -3,11 +3,14 @@ async-generator==1.10
 attrs==20.2.0
 backcall==0.2.0
 bleach==3.2.1
+certifi==2020.6.20
 cffi==1.14.3
+cycler==0.10.0
 Cython==0.29.21
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
+future==0.18.2
 importlib-metadata==2.0.0
 ipykernel==5.3.4
 ipython==7.18.1
@@ -21,7 +24,10 @@ jupyter-client==6.1.7
 jupyter-console==6.2.0
 jupyter-core==4.6.3
 jupyterlab-pygments==0.1.2
+kiwisolver==1.2.0
 MarkupSafe==1.1.1
+matplotlib==3.3.2
+mir-eval==0.6
 mistune==0.8.4
 nbclient==0.5.1
 nbconvert==6.0.7
@@ -34,6 +40,7 @@ pandocfilters==1.4.2
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==8.0.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.8
 ptyprocess==0.6.0
